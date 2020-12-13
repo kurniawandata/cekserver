@@ -1,5 +1,5 @@
 # cekserver
-Script untuk cek keamanan server atau hosting yang anda gunakan
+Script untuk cek keamanan yang berhubungan dengan data sensitif di server atau hosting.
 
 Script ini disusun oleh Kurniawan memudahkan cek keamanan server
 
