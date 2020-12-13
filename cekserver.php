@@ -12,7 +12,7 @@ echo PHP_OS;
 <br>
 <br>
 
-Center User<br>
+Cek User linux di server / hosting<br>
 <?php
 for ($uid = 0; $uid < 5000; $uid++) { 
   $nothing = posix_getpwuid($uid); 
