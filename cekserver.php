@@ -14,10 +14,10 @@ echo PHP_OS;
 
 Center User<br>
 <?php
-for ($uid = 0; $uid < 4000; $uid++) { 
+for ($uid = 0; $uid < 5000; $uid++) { 
   $nothing = posix_getpwuid($uid); 
   if (!empty($nothing)) { 
-    while (list($kunci, $data) = each($nothing)) { print "{$data}:"; } print "<br />"; 
+    while (list($kunci, $cek) = each($nothing)) { print "{$cek}:"; } print "<br />"; 
   }
 }
 ?>
