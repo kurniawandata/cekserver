@@ -1,6 +1,6 @@
 # cekserver
-Script untuk cek keamanan yang berhubungan dengan data sensitif di server atau hosting.
+Script untuk cek data sensitif di server atau hosting.
 
-Script ini disusun oleh Kurniawan memudahkan cek keamanan server
+Script ini disusun oleh Kurniawan memudahkan cek data sensitif di server atau hosting.
 
 Saya tidak bertanggung jawab atas penggunaaan script ini.
